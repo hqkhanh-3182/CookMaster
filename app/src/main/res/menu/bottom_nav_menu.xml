@@ -10,7 +10,7 @@
         android:icon="@drawable/search_icon"/>
     <item android:id="@+id/feedback_menu_item"
         android:title="Đánh giá"
-        android:icon="@drawable/feebback_icon"/>
+        android:icon="@drawable/feedback_icon"/>
     <item android:id="@+id/account_menu_item"
         android:title="Hồ sơ"
         android:icon="@drawable/account_icon"/>

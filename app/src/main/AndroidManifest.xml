@@ -37,7 +37,7 @@
             android:name=".authenticate.EditProfileActivity"
             android:exported="false" />
         <activity
-            android:name=".article.FeebbackArticleActivity"
+            android:name=".article.FeedbackArticleActivity"
             android:exported="false" />
         <activity
             android:name=".authenticate.RegisterActivity"

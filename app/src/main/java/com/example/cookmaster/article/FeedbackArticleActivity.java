@@ -10,12 +10,12 @@ import androidx.core.view.WindowInsetsCompat;
 
 import com.example.cookmaster.R;
 
-public class FeebbackArticleActivity extends AppCompatActivity {
+public class FeedbackArticleActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_feebback_article);
+        setContentView(R.layout.activity_feedback_article);
 
     }
 }
